@@ -1,16 +1,49 @@
-## Hi there 👋
+# Mohamed Asker
 
-<!--
-**Weyar9/Weyar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud DevOps Engineer focused on Kubernetes, cloud infrastructure, and CI/CD automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Cloud
+AWS
+Google Cloud
+
+DevOps
+Docker
+Kubernetes
+Terraform
+GitHub Actions
+
+Programming
+Python
+Java
+Bash
+
+---
+
+## Projects
+
+Cloud DevOps Platform  
+End to end DevOps pipeline using Terraform Docker Kubernetes and CI CD automation.
+
+Kubernetes Production Cluster  
+Production Kubernetes cluster deployment with containerized applications.
+
+---
+
+## Tech Stack
+
+Docker  
+Kubernetes  
+Terraform  
+GitHub Actions  
+Python
+
+---
+
+## Contact
+
+GitHub  
+https://github.com/Weyar9
