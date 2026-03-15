@@ -24,16 +24,17 @@ Programming
 Python
 Java
 Bash
-
 ---
 
 ## Projects
 
-Cloud DevOps Platform  
+Cloud DevOps Platform
+End-to-end DevOps platform using Terraform Docker Kubernetes and CI CD
 https://github.com/Weyar9/cloud-devops-platform
 
-Kubernetes Production Cluster  
-https://github.com/Weyar9/kubernetes-production-cluster.
+Kubernetes Production Cluster
+Production Kubernetes cluster deployment with containerized applications
+https://github.com/Weyar9/kubernetes-production-cluster
 
 ---
 
@@ -51,3 +52,9 @@ Python
 
 GitHub  
 https://github.com/Weyar9
+
+## Currently Working On
+
+Cloud DevOps Infrastructure  
+Kubernetes Automation  
+CI CD pipelines using GitHub Actions
