@@ -1,4 +1,8 @@
-# Mohamed Asker
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black)# Mohamed Asker
 
 Cloud DevOps Engineer focused on Kubernetes, cloud infrastructure, and CI/CD automation.
 
@@ -26,10 +30,10 @@ Bash
 ## Projects
 
 Cloud DevOps Platform  
-End to end DevOps pipeline using Terraform Docker Kubernetes and CI CD automation.
+https://github.com/Weyar9/cloud-devops-platform
 
 Kubernetes Production Cluster  
-Production Kubernetes cluster deployment with containerized applications.
+https://github.com/Weyar9/kubernetes-production-cluster.
 
 ---
 
